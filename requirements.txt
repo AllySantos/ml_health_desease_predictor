@@ -2,4 +2,8 @@ pip
 pytest
 python-dotenv
 ruff
+pandas
+matplotlib
+seaborn
+scikit-learn
 -e .
